@@ -1,10 +1,6 @@
-### Lecture 0: Overview
+### Lecture 1: Probability Models and Axioms
 
-* [Course Charter and Objectives](https://www.youtube.com/watch?v=CySStZiDeUE)
-
-* [Why Study Probability](https://www.youtube.com/watch?v=ldnNBisIC8M)
-
-* [Course Contents](https://www.youtube.com/watch?v=XaiWSSXXX3c)
+* []()
 
 <br>
 
