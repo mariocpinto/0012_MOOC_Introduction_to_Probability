@@ -7,3 +7,7 @@ The companion book to this course is [Introduction to Probability](http://athena
 #### Unit 0: Overview
 
 * L0: [Overview](Lecture_Notes/Lecture_01.md)
+
+#### Unit 1: Probability Models and Axioms
+
+* L1: [Probability Models and Axioms](Lecture_Notes/Lecture_02.md)
