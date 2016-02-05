@@ -10,7 +10,7 @@
   * Unions U and intersections n.
 
 * [De Morgan's Laws](https://www.youtube.com/watch?v=pklIkeuveOE)  
-  ![De Morgans Laws](Images/01/De_Morgans_Laws.png)
+  ![De Morgans Laws](../Images/01/De_Morgans_Laws.png)
 
 * [Sequences and their Limits](https://www.youtube.com/watch?v=60ug2YVjdhU)
 
