@@ -27,8 +27,11 @@
 * [A Continuous Example](https://www.youtube.com/watch?v=sT3xw1TZ7oU)
 
 * [Countable Additivity](https://www.youtube.com/watch?v=oGePTQ6hFFI)
+ > Countable Additivity Axiom:  
+If A1, A2, A3... is an infinite sequence of disjoint events, then P(A1 U A2 U ...) = P(A1) + P(A2) + ...
 
-
+* [Interpretation and Uses of Probability](https://www.youtube.com/watch?v=XsUNKLd7N5Y)  
+ ![Relationship between probability, statistics and the real world](Images/01/probability_and_statistics.png)
 <br>
 
 [Back to course notes](../Course_Notes.md)
