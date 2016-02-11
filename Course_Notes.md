@@ -13,3 +13,10 @@ The companion book to this course is [Introduction to Probability](http://athena
 * [Mathematical Background](Lecture_Notes/Math_Background.md)
 
 * L1: [Probability Models and Axioms](Lecture_Notes/Lecture_01.md)
+
+#### Unit 2: Conditioning and Independence
+
+[Unit Overview](https://www.youtube.com/watch?v=P4-CFlsBZCU)
+
+* L2: [Conditioning and Bayes' Rule](Lecture_Notes/Lecture_02.md)
+* L3: [Independence](Lecture_Notes/Lecture_03.md)
