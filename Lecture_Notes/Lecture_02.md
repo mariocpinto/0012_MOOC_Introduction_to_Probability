@@ -11,10 +11,22 @@
 
 * [Die Roll Example](https://www.youtube.com/watch?v=snQLH-KzpLY)
 
-<!--
-* Solved Problems:
- * [1](), [2](), [3](), [4]().
- -->
+* [Conditional Probabilities Obey the Same Axioms](https://www.youtube.com/watch?v=sn2wDa6SI_E)
+ * Conditonal probabilities obey the same axioms as as ordinary probabilities i.e. non-negativity, normalization and additivity.
+
+* [Radar Example: Three Basic Tools](https://www.youtube.com/watch?v=PPO1xs64Xgg)
+
+* [The Multiplication Rule](https://www.youtube.com/watch?v=nsKdFJipGO4)
+ * P(AnB) = P(A)*P(B|A) = P(B)*P(A|B)
+ * P(A1nA2n...AN) = P(A1)* Prod(i=2->N){P(Ai|A1nA2n...nA(i-1))}
+
+* [Total Probability Theorem](https://www.youtube.com/watch?v=GDRUJsYjPl8)
+ * P(B) = Sum i P(Ai)*P(B|Ai)
+ * Note: Ai  is a partition i.e. Sum P(Ai) = 1.
+
+* [Bayes' Rule](https://www.youtube.com/watch?v=AkHyqqf-rQs)
+ * P(Ai|B) = P(AinB) / P(B) = P(Ai) * P(B|Ai) / sum j P(Aj) * P(B|Aj)
+
 <br>
 
 [Back to course notes](../Course_Notes.md)
