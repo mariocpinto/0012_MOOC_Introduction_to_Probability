@@ -30,6 +30,9 @@
 
 * [Example: The King's sibling](https://www.youtube.com/watch?v=3mFTpJHHzWA)
 
+* Solved Problems:
+ * [1](https://www.youtube.com/watch?v=0WVRMlRn57U), [2](https://www.youtube.com/watch?v=HeWFwYt8i-o), [3](https://www.youtube.com/watch?v=M7dy4gId_wA), [4](https://www.youtube.com/watch?v=oQJBtVP95c8), [5](https://www.youtube.com/watch?v=xvPdi6gjDMA), [6](https://www.youtube.com/watch?v=VRhrAUT602I), [7](https://www.youtube.com/watch?v=tlHa2sm1uDg).
+
 <br>
 
 [Back to course notes](../Course_Notes.md)
