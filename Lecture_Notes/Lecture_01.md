@@ -33,7 +33,7 @@ If A1, A2, A3... is an infinite sequence of disjoint events, then P(A1 U A2 U ..
 * [Interpretation and Uses of Probability](https://www.youtube.com/watch?v=XsUNKLd7N5Y)  
  ![Relationship between probability, statistics and the real world](../Images/01/probability_and_statistics.png)
 
-* Solved Examples:
+* Solved Problems:
  * [1](https://www.youtube.com/watch?v=YjUPiMY8nSs), [2](https://www.youtube.com/watch?v=03ckSzMreeM), [3](https://www.youtube.com/watch?v=lVeROX4Mkv8), [4](https://www.youtube.com/watch?v=dTPwQEegHxw).
 <br>
 
