@@ -20,3 +20,7 @@ The companion book to this course is [Introduction to Probability](http://athena
 
 * L2: [Conditioning and Bayes' Rule](Lecture_Notes/Lecture_02.md)
 * L3: [Independence](Lecture_Notes/Lecture_03.md)
+
+#### Unit 3: Counting
+
+* L4: [Counting](Lecture_Notes/Lecture_04.md)
