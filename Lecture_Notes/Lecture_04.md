@@ -34,7 +34,10 @@
 * [Example: Each Person gets an Ace](https://www.youtube.com/watch?v=ig7ztHAd2J4)
 
 * Solved Problems:
- * [1](https://www.youtube.com/watch?v=lP-ZNoHbBEc), [2](https://www.youtube.com/watch?v=ECVlamfF__w), [3](https://www.youtube.com/watch?v=Udc_2z-pL9Y), [4](https://www.youtube.com/watch?v=tvZ-Hsy_riA).
+ * [The birthday problem](https://www.youtube.com/watch?v=lP-ZNoHbBEc).
+ * [Rooks on a chessboard](https://www.youtube.com/watch?v=ECVlamfF__w).
+ * [Hypergeometric probabilities](https://www.youtube.com/watch?v=Udc_2z-pL9Y).
+ * [Multinomial probabilities](https://www.youtube.com/watch?v=tvZ-Hsy_riA).
 
 <br>
 
