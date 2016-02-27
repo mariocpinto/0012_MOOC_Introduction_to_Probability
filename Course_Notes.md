@@ -24,3 +24,11 @@ The companion book to this course is [Introduction to Probability](http://athena
 #### Unit 3: Counting
 
 * L4: [Counting](Lecture_Notes/Lecture_04.md)
+
+#### Unit 4: Discrete Random Variables
+
+[Unit Overview](https://www.youtube.com/watch?v=61D7D0Df6QY)
+
+* L5: [Probability Mass Functions and Expectations](Lecture_Notes/Lecture_05.md)
+* L6: [Variance, Conditioning on an Event, Multiple Random Variables](Lecture_Notes/Lecture_06.md)
+* L7: [Conditioning on a Random Variable, Independence of Random Variables](Lecture_Notes/Lecture_07.md)
