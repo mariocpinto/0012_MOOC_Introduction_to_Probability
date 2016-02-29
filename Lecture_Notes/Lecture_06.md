@@ -30,7 +30,8 @@
 * [Joing pmf's and the Expected Value Rule](https://www.youtube.com/watch?v=fyno3uRscVA)
   * Joint pmf: p_(X,Y) (x,y) = p(X=x and Y=y).
   * Sum_x Sum_y p_(X,Y) (x,y) = 1.
-  * Individual pmfalized to more than two r.vs.
+  * Individual pmf's of X and Y are called marginal pmfs. p_X (x) = Sum_y p_(X,Y) (x,y) and vice versa.
+  * This can be generalized to more than two r.vs.
   * Function of r.v's: If Z = g(X,Y), pmf of Z - P_Z (z) = Sum_(x,y: g(x,y)=z) p_(X,Y) (x,y).
   * Expected value rule for functions of r.vs: E[g(X,Y)] = Sum_x Sum_y { g(x,y) * p_(X,Y) (x,y) }
 
@@ -39,6 +40,5 @@
   * Expected value of binomial r.v. = n*p
 
 <br>
-'s of X and Y are called marginal pmfs. p_X (x) = Sum_y p_(X,Y) (x,y) and vice versa.
-  * This can be gener
+
 [Back to course notes](../Course_Notes.md)
