@@ -21,7 +21,7 @@
   * Expected value rule: E[g(X)|A] = Sum_x {g(X) * p_(X|A) (x)}
 
 * [Total Expectation Theorem](https://www.youtube.com/watch?v=AcujBxMJhO4)
-  * E[X] = P(A1)*E[X|A1] + ... + P(An)*E[X|An]
+  * E[X] = P(A1) * E[X|A1] + ... + P(An) * E[X|An]
 
 * [Geometric pmf, Memorylessness and Expectation](https://www.youtube.com/watch?v=yn6yjk_sI_g)
   * Memorylessness of a geometric variable: p_(X-n|X>n) (k) = p_X (k).
