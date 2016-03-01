@@ -11,7 +11,6 @@ The companion book to this course is [Introduction to Probability](http://athena
 #### Unit 1: Probability Models and Axioms
 
 * [Mathematical Background](Lecture_Notes/Math_Background.md)
-
 * L1: [Probability Models and Axioms](Lecture_Notes/Lecture_01.md)
 
 #### Unit 2: Conditioning and Independence
@@ -32,3 +31,5 @@ The companion book to this course is [Introduction to Probability](http://athena
 * L5: [Probability Mass Functions and Expectations](Lecture_Notes/Lecture_05.md)
 * L6: [Variance, Conditioning on an Event, Multiple Random Variables](Lecture_Notes/Lecture_06.md)
 * L7: [Conditioning on a Random Variable, Independence of Random Variables](Lecture_Notes/Lecture_07.md)
+* [Additional Theoretical Material](Lecture_Notes/Lecture_07_b.md)
+
