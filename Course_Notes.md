@@ -33,3 +33,6 @@ The companion book to this course is [Introduction to Probability](http://athena
 * L7: [Conditioning on a Random Variable, Independence of Random Variables](Lecture_Notes/Lecture_07.md)
 * [Additional Theoretical Material](Lecture_Notes/Lecture_07_b.md)
 
+[Unit Summary](https://www.youtube.com/watch?v=Iqvs0kNthrs)
+
+
