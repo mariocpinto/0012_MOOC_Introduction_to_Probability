@@ -29,7 +29,7 @@
 
 * [Independence, Variance and the Binomial Variance](https://www.youtube.com/watch?v=I_njPcYRDXs)
   * If X and Y are independent, var(X+Y) = var(X) + var(Y).
-  * Variance of binomial r.v. = n*p*(1-p).
+  * Variance of binomial r.v. = n * p * (1-p).
 
 * [The Hat Problem](https://www.youtube.com/watch?v=gIGsMLawD0E)
 
