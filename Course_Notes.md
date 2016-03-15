@@ -35,4 +35,13 @@ The companion book to this course is [Introduction to Probability](http://athena
 
 [Unit Summary](https://www.youtube.com/watch?v=Iqvs0kNthrs)
 
+#### Unit 5: Continuous Random Variables
+
+[Unit Overview](https://www.youtube.com/watch?v=KK9QL-mzVEM)
+
+* L8: [Probability Density Functions](Lecture_Notes/Lecture_08.md)
+* L9: [Conditioning on an event; Multiple r.v.'s](Lecture_Notes/Lecture_09.md)
+* L10: [Conditioning on a r.v.; Independence;  Bayes' Rule](Lecture_Notes/Lecture_10.md)
+
+[Unit Summary](https://www.youtube.com/watch?v=P3_W6ZsL-A8)
 
