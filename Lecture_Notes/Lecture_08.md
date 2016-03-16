@@ -3,7 +3,7 @@
 * [Overview](https://www.youtube.com/watch?v=NVQsY04z3Us)
 
 * [PDFs](https://www.youtube.com/watch?v=XqHGmCC_NXk)
-  * PDF represented as f_X (x) and is the probability per unit length (or area).
+  * PDF represented as f_X (x) and is the probability per unit length.
   * P(a<=X<=b) = Int_a^b f_X (x) dx.
   * Conditions for a legitimate pdf: f_X (x) >= 0 and Int_(-Inf)^(+Inf) f_X (x) dx = 1.
   * A random variable is continuous if it can be described by a PDF.
