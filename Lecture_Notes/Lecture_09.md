@@ -4,8 +4,8 @@
 
 * [Conditioning a Continuous Random Variable on an Event](https://www.youtube.com/watch?v=ajki07PRbGU)
   * Some formulae:  
-  ![Conditional PDF formulae](../Images/09/conditional_pdf.png)
-  *Conditional PDF of X, given X e A:  
+  ![Conditional PDF formulae](../Images/09/conditional_pdf.png)  
+  * Conditional PDF of X, given X e A:  
   f_X|XeA (x) = 0 if x !e A; = f_X (x) / P(A) if x e A.
   * Conditional expectations and expected value rule:
   ![Conditional expectations formulae](../Images/09/conditional_expectations.png)
