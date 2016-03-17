@@ -21,6 +21,21 @@
     * var(X + Y) = var(X) + var(Y)
     * E[g(X) * h(Y)] = E[g(X)] * E[h(Y)]
 
+* [Stick Breaking Example](https://www.youtube.com/watch?v=3IJfrT6qVLA)
+
+* [Independent Normals](https://www.youtube.com/watch?v=zLx8721gYek)
+
+* [Bayes' Rule Variations](https://www.youtube.com/watch?v=ZHnvjcn6D-0)  
+ ![Bayes' Rule equations](../Images/10/Bayes_Rule.png) 
+
+* [Mixed Bayes Rule](https://www.youtube.com/watch?v=SMKiXsEY2ZY)
+ * Bayes' Rule with one discrete and one random variable:  
+ ![Mixed Bayes' Rule](../Images/10/mixed_Bayes_Rule.png) 
+
+* [Example: Detection of a Binary Signal](https://www.youtube.com/watch?v=AiXmkA0Cj1I)
+
+* [Inference of the Bias of a Coin](https://www.youtube.com/watch?v=KeNyYl3xzvs)
+
 <br>
 
 [Back to course notes](../Course_Notes.md)
