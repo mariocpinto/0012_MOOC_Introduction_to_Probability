@@ -36,6 +36,19 @@
 
 * [Inference of the Bias of a Coin](https://www.youtube.com/watch?v=KeNyYl3xzvs)
 
+* Solved Problems:
+ * [Calculating a CDF](https://www.youtube.com/watch?v=V5vkgEXockw)
+ * [Mixed Distribution Example](https://www.youtube.com/watch?v=biD2JUY-DC0)
+ * [Mean and Variance of the Exponential](https://www.youtube.com/watch?v=2HseHAVCJjM)
+ * [Normal Probability Calculation](https://www.youtube.com/watch?v=Hy6EGOzvlvI)
+ * [Densities and Conditioning on an Event](https://www.youtube.com/watch?v=_i4pVQmJ1rk)
+ * [Circular Uniform PDF](https://www.youtube.com/watch?v=4SPpgdWnArc)
+ * [The Absent Minded Professor](https://www.youtube.com/watch?v=1872CEK5RqY).
+ * [Uniform Probabilities on a Triangle](https://www.youtube.com/watch?v=spJbyL0bDpk)
+ * [Probability that 3 Pieces form a Triangle](https://www.youtube.com/watch?v=NYMKMmIrgMk)
+ * [Buffon's Needle and Monte Carlo Simulation](https://www.youtube.com/watch?v=Hyh_uQX4dFk)
+ * [Bayes' Rule with Continuous Random Variables](https://www.youtube.com/watch?v=IGG4IOSt0WA)
+
 <br>
 
 [Back to course notes](../Course_Notes.md)
