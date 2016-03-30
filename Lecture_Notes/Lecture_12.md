@@ -7,7 +7,7 @@
   * The flip-and-shift graphical method - also called the discrete convolution formula.
 
 * [The Sum of Independent Continuous Random Variables](https://www.youtube.com/watch?v=Npv6k3kjOTE)
-  * Let Z = X + Y, then p_Z (z) = Integral_(-Inf)^(Inf) f_X (x) * f_Y (z-x) dx.
+  * Let Z = X + Y, then f_Z (z) = Integral_(-Inf)^(Inf) f_X (x) * f_Y (z-x) dx.
   * This is called the continuous convolution formula.
 
 * [The Sum of Independent Normal Random Variables](https://www.youtube.com/watch?v=6Jp7WfkEpiQ)
