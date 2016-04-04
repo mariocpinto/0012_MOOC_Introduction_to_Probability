@@ -56,3 +56,14 @@ The companion book to this course is [Introduction to Probability](http://athena
 
 [Unit Summary](https://www.youtube.com/watch?v=-hVAAv2khAs)
 
+#### Unit 7: Bayesian Inference
+
+[Unit Overview](https://www.youtube.com/watch?v=UUm_zP4jwrc)
+
+* L14: [Introduction to Bayesian Inference](Lecture_Notes/Lecture_14.md)
+* L15: [Linear Models with Normal Noise](Lecture_Notes/Lecture_15.md)
+* L16: [Least Mean Squares (LMS) Estimation](Lecture_Notes/Lecture_16.md)
+* L17: [Linear Least Mean Squares (LLMS) Estimation](Lecture_Notes/Lecture_17.md)
+[Additional Theoretical Material](Lecture_Notes/Lecture_17_b.md)
+
+[Unit Summary](https://www.youtube.com/watch?v=7_aFJxurMCI)
