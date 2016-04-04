@@ -63,7 +63,7 @@ The companion book to this course is [Introduction to Probability](http://athena
 * L14: [Introduction to Bayesian Inference](Lecture_Notes/Lecture_14.md)
 * L15: [Linear Models with Normal Noise](Lecture_Notes/Lecture_15.md)
 * L16: [Least Mean Squares (LMS) Estimation](Lecture_Notes/Lecture_16.md)
-* L17: [Linear Least Mean Squares (LLMS) Estimation](Lecture_Notes/Lecture_17.md)
+* L17: [Linear Least Mean Squares (LLMS) Estimation](Lecture_Notes/Lecture_17.md)  
 [Additional Theoretical Material](Lecture_Notes/Lecture_17_b.md)
 
 [Unit Summary](https://www.youtube.com/watch?v=7_aFJxurMCI)
